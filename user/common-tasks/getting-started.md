@@ -156,6 +156,23 @@ Here are some other tasks you're likely to want to perform.
  * [DisposableVMs]
  * [Device Handling] (block, USB, and PCI devices)
 
+
+Screensaver / Power off Display
+-------------------------------
+
+In order to power off the display after some given time navigate to "System Tools -> Screensaver -> Advanced tab"
+
+Check "Power Management Enabled" and set the time after which your display should standby, suspend or power off.
+
+
+The setting in "System Tools -> Power Manager -> Display" might not work porperly
+
+---
+
+
+
+
+
 If you encounter any problems, please visit the [Help, Support, and Mailing Lists] page.
 
 
