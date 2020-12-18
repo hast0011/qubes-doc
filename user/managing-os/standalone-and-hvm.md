@@ -122,7 +122,7 @@ This can be seen e.g. in the Qube Manager in the qube's properties:
 
 Alternatively, one can use the `qvm-ls -n` command to obtain the same information, (IP/netmask/gateway).
 
-The DNS IP addresses are `10.139.1.1` and `10.139.1.2`.
+The DNS IP addresses are `10.139.1.1` and `10.139.1.2`, or `10.137.0.6`.
 There is [opt-in support](/doc/networking/#ipv6) for IPv6 forwarding.
 
 
