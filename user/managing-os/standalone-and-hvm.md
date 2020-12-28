@@ -118,7 +118,13 @@ In this instance our DHCP server is not useful.
 In order to manually configure networking in a VM, one should first find out the IP/netmask/gateway assigned to the particular VM by Qubes.
 This can be seen e.g. in the Qube Manager in the qube's properties:
 
+
+----This is the picture in question----
+
 ![r2b1-manager-networking-config.png](/attachment/wiki/HvmCreate/r2b1-manager-networking-config.png)
+
+----This is the picture in question----
+
 
 Alternatively, one can use the `qvm-ls -n` command to obtain the same information, (IP/netmask/gateway).
 
